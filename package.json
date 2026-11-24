@@ -1,0 +1,15 @@
+{
+  "name": "signal-token-launch-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {"node": ">=22.18.0"},
+  "scripts": {
+    "generate": "node main.ts --input input --output generated",
+    "test": "node test.mjs",
+    "test:browser": "node browser-test.cjs",
+    "screenshots": "node capture.cjs"
+  },
+  "devDependencies": {"playwright": "1.65.1"}
+}

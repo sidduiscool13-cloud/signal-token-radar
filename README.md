@@ -1,3 +1,11 @@
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+
+[![rank](https://make.fun/badge/token-radar-01/sidduiscool13-cloud/signal-token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard)
+
+[![reward](https://make.fun/badge/token-radar-01/sidduiscool13-cloud/signal-token-radar/reward.svg)](https://make.fun/bounty/token-radar-01)
+
+
+
 # Authentic transcript export required
 
 This directory intentionally contains no fabricated agent-session logs.
